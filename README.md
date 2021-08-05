@@ -1,9 +1,7 @@
 #### 09.01 Жизненный цикл ПО </br>
 ====================================</br>
-[based-workflow.xml](https://github.com/murzinvit/9.1_live_cycle_po/blob/adf67edb0b03b8fc41539569fd19be16e86c5bc7/based-workflow.xml) </br>
-[based-workflow.xml](https://github.com/murzinvit/9.1_live_cycle_po/blob/adf67edb0b03b8fc41539569fd19be16e86c5bc7/easy-workflow.xml) </br>
-based-workflow.xml - workflow для задач типа bug </br>
-easy-workflow.xml  - workflow для всех остальных задач </br>
+[based-workflow.xml](https://github.com/murzinvit/9.1_live_cycle_po/blob/adf67edb0b03b8fc41539569fd19be16e86c5bc7/based-workflow.xml) - workflow для задач типа bug</br>
+[based-workflow.xml](https://github.com/murzinvit/9.1_live_cycle_po/blob/adf67edb0b03b8fc41539569fd19be16e86c5bc7/easy-workflow.xml) - workflow для всех остальных задач</br>
 Workflow создавал через -> настройки -> задачи. Далее либо создать новый workflow, либо копировать существующий.</br>
 Там же можно сохранить workflow в xml и назначить на проект под разные типы задач свой workflow </br>
 В easy-workflow.xml в последнем задании добавил от себя переход c CLOSED в OPEN.</br>
