@@ -19,7 +19,7 @@ Workflow создавал через: -> в правом углу, настро�
 ![screen](https://github.com/murzinvit/screen/blob/415e0ba63415577d3f0a705f798ebf02779d2ccb/Scrum.jpg) </br>
 ### Назначение workflow на задачи:
 ![screen](https://github.com/murzinvit/screen/blob/743443b3e1368dce44fc7a31c8832c0bacebb7d7/Scrum%20workflow.jpg) </br>
-### Добавить task, epic .. в scrum:
+### Добавить task, epic .. в scrum(проматать до пункта - связанные задачи):
 ![screen](https://github.com/murzinvit/screen/blob/a32128e620f0eac1a84169ed33717c3748a6fc57/Scrum%20task%20in%20scrum.jpg) </br>
 
 
